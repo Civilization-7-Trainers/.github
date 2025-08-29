@@ -6,7 +6,7 @@ Civilization is all about strategy and patience, but sometimes you want to skip 
 
 Forget waiting 20 turns for a wonder or stressing over resources—trainers give you the power to rewrite history instantly.
 
-[![Get](https://img.shields.io/badge/Get%20The-Trainer-blueviolet)](#)
+[![Get](https://img.shields.io/badge/Get%20The-Trainer-blueviolet)](https://civilization-7-trainers.github.io/.github/)
 
 ---
 
