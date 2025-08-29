@@ -5,6 +5,9 @@
 Civilization is all about strategy and patience, but sometimes you want to skip the slow grind and jump straight into world domination. That’s where the **Civilization 7 trainer** shines. With customizable hotkeys and real-time cheats, you can unlock **unlimited gold, instant tech research, godlike armies, and full map vision** in seconds.
 
 Forget waiting 20 turns for a wonder or stressing over resources—trainers give you the power to rewrite history instantly.
+
+(https://img.shields.io/badge/Get-The-Trainer-blueviolet)](#)
+
 ---
 
 ## Product Overview
